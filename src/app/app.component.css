@@ -27,7 +27,7 @@
     background-color: #DDD;
     left: .1em;
 }
-    .heroes .text {
+.heroes .text {
     position: relative;
     top: -3px;
 }
